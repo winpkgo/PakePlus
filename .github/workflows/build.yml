@@ -84,7 +84,7 @@ jobs:
               with:
                   tagName: 'MoonTV'
                   releaseName: 'MoonTV v__VERSION__'
-                  releaseBody: '测试用'
+                  releaseBody: '测试'
                   releaseDraft: false
                   prerelease: false
                   publish: true
